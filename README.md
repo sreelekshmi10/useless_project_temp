@@ -1,98 +1,47 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# WASTAGE-WHIRLWIND🎯  https://wastage-whirlwind.lovable.app/
 
 
 ## Basic Details
-### Team Name: [Name]
+### IMPULSE 2.O
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Sreelekshmi Suresh-SNM Institute of Management and Technology
+- Member 2: Niranjana Dileep-SNM Institute of Management and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+To create a humorous and interactive web app that allows users to upload a friend’s photo and name, and then reveals a randomly generated "wastage level" (%) along with a funny roast — like a digital meme generator for friends!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People love fun ways to interact with friends online, but there aren’t many simple tools that generate personalized jokes or roasts in a creative way. This project aims to create a funny website where users can upload a friend’s photo and name to get a random wastage level percentage and a hilarious roast, just for laughs!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+wastage-whirlwind will roast persons when upload an image and their name
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- Languages used:HTML,css,javascript
+- Tools used:vscode 
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 160707" src="https://github.com/user-attachments/assets/86777829-fe18-41cf-8cd7-b859842ad5e0" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+<img width="1920" height="1080" alt="Screenshot 2025-08-08 162748" src="https://github.com/user-attachments/assets/44a7ae36-6418-4c0a-9a46-68404e11c0dd" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot3]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5663e7c7-0c17-4e3e-9b28-85559033fb6c" />
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
+  
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
